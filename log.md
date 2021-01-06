@@ -11,6 +11,13 @@
 **Link to work:** 
 
 
+### Day 2: January 5, 2020
+
+**Today's Progress:** Completed up to lesson #100 in freeCodeCamp's JS certification. Reviewed short-circuit conditionals. Started on recursive functions.
+
+**Thoughts:** Short-circuit conditionals seem very useful, if not very intuitive. Ditto for recursive functions. Will need to make sure I take some time with both of these in order to really understand them.
+
+
 ### Day 1: January 4, 2020 
 
 **Today's Progress:** Completed up to lesson #93 in freeCodeCamp's JS certification. Accessing and changing values in nested objects.  
