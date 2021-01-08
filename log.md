@@ -10,6 +10,13 @@
 
 **Link to work:** 
 
+
+### Day 4: January 7, 2021 
+
+**Today's Progress:** Completed JavaScript Basics section in freeCodeCamp course + up to lesson #4 in the section on ES6.
+
+**Thoughts:** Still struggling to understand recursive functions but I think it's slowly starting to sink in.
+
  
 ### Day 3: January 6, 2021 
 
