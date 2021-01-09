@@ -11,6 +11,13 @@
 **Link to work:** 
 
 
+### Day 5: January 8, 2021 
+
+**Today's Progress:** Finished up to lesson #19 in ES6 section of freeCodeCamp JavaScript certification. Mostly destructuring from objects and arrays.  
+
+**Thoughts:** I'm feeling a bit bored. I know I need to work on small projects (not just problem sets on freeCodeCamp) in order to make things more interesting and keep myself motivated. I did follow along with the 3rd project in Wes Bos' #JavaScript30 series but didn't feel like I would have been able to code it myself, so definitely not counting that as part of my 1-hour of coding today. I think tomorrow I will try to code the project before watching the solution. I know it will give me a more solid understanding of how to make code do what I need it to do even if the code I come up with is a bit of a mess.
+
+
 ### Day 4: January 7, 2021 
 
 **Today's Progress:** Completed JavaScript Basics section in freeCodeCamp course + up to lesson #4 in the section on ES6.
