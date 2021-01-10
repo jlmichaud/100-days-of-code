@@ -11,6 +11,13 @@
 **Link to work:** 
 
 
+### Day 6: January 9, 2021
+
+**Today's Progress:** Worked through 1st Array Cardio Day of #JavaScript30. 
+
+**Thoughts:** Was mostly able to write the code for the problem sets before watching the solutions (although Wes Bos' solutions were more elegant of course). I can see that array methods are gonna be really useful!
+
+
 ### Day 5: January 8, 2021 
 
 **Today's Progress:** Finished up to lesson #19 in ES6 section of freeCodeCamp JavaScript certification. Mostly destructuring from objects and arrays.  
