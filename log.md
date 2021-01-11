@@ -11,6 +11,13 @@
 **Link to work:** 
 
 
+### Day 7: January 10, 2021 
+
+**Today's Progress:** Completed to the end of section on ES6 in freeCodeCamp's JavaScript certification.
+
+**Thoughts:** The first time I started learning about classes and Promises (in Colt Steele's course) I was rushing through the content, and as a result felt increasingly lost as I kept trying to plough through the lessons, so it was really good to review those topics today. Tomorrow I'm going to start working on a project. No excuses!!! 
+
+
 ### Day 6: January 9, 2021
 
 **Today's Progress:** Worked through 1st Array Cardio Day of #JavaScript30. 
