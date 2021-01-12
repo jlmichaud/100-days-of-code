@@ -11,6 +11,13 @@
 **Link to work:** 
 
 
+### Day 8: January 11, 2021 
+
+**Today's Progress:** Started working on a binary to decimal calculator (as suggested in Florin Pop's GitHub list of projects to build).
+
+**Thoughts:** Didn't get as far as I would have liked because I had to spend a bit of time learning about binary (went back to CS50 course for this). Also got a bit sidetracked trying to do some basic CSS styling which was obviously not necessary but I like for things to look pretty. Realized I've forgotten so much CSS!
+
+
 ### Day 7: January 10, 2021 
 
 **Today's Progress:** Completed to the end of section on ES6 in freeCodeCamp's JavaScript certification.
