@@ -11,6 +11,13 @@
 **Link to work:** 
 
 
+### Day 9: January 12 
+
+**Today's Progress:** Continued working on the binary to decimal calculator.
+
+**Thoughts:** I got very frustrated and eventually (after exercising) realized that I was over-complicating it. I'll give it another try tomorrow and if I can't work it out I'll go back to doing projects that have solution videos that I can refer to when I get stuck.
+
+
 ### Day 8: January 11, 2021 
 
 **Today's Progress:** Started working on a binary to decimal calculator (as suggested in Florin Pop's GitHub list of projects to build).
