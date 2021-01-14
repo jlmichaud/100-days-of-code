@@ -10,6 +10,12 @@
 
 **Link to work:** 
 
+### Day 10: January 13, 2021 
+
+**Today's Progress:** Completed up to lesson #28 in the regex section of freeCodeCamp's JS certification which came in very handy for my binary to decimal calculator (though I'm still not finished that). Did a bit of work on a meeting time decider app with Gabrielle. We are each working on our own respective JavaScript and Python versions.
+
+**Thoughts:** So glad to finally know about regex! I've seen regex code from time to time in Stack Overflow posts and it's always been something that looked completely indecipherable so I'm glad that I'm finally learning what it is. Seems very useful!
+
 
 ### Day 9: January 12 
 
