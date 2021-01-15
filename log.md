@@ -10,6 +10,16 @@
 
 **Link to work:** 
 
+
+### Day 11: January 14, 2021 
+
+**Today's Progress:** Did a few more lessons in the regex section (to lesson #31). Finally worked out the logic for the binary to decimal calculator!
+
+**Thoughts:** I don't yet fully understand regex but I also like it. It seems very powerful. 
+
+Figuring out the logic for the calculator felt so great... like I'd performed a magic trick! I used an html text input instead of number input in order to be able to loop through the digits and transform them with a Math.pow() using the index of the flipped number as the exponent. 
+
+
 ### Day 10: January 13, 2021 
 
 **Today's Progress:** Completed up to lesson #28 in the regex section of freeCodeCamp's JS certification which came in very handy for my binary to decimal calculator (though I'm still not finished that). Did a bit of work on a meeting time decider app with Gabrielle. We are each working on our own respective JavaScript and Python versions.
