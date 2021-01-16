@@ -11,6 +11,13 @@
 **Link to work:** 
 
 
+### Day 12: January 15, 2021 
+
+**Today's Progress:** Started working on making the binary to decimal converter work in the brower.
+
+**Thoughts:** Not a terribly productive day. I quickly realized that I'd forgotten a lot about creating/adding/removing new elements with JS. Needing to re-watch a lot of videos to refresh my memory. Code is getting pretty long and messy and I don't feel that I have a good sense about how to re-factor things but I suppose this will improve with time and practice.
+
+
 ### Day 11: January 14, 2021 
 
 **Today's Progress:** Did a few more lessons in the regex section (to lesson #31). Finally worked out the logic for the binary to decimal calculator!
