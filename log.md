@@ -11,6 +11,13 @@
 **Link to work:** 
 
 
+### Day 13: January 17, 2021
+
+**Today's Progress:** I got the binary to decimal converter working in the browser! I tried to get the CSS working better but it's becoming clear that my CSS knowledge is severely lacking.
+
+**Thoughts:** It felt so great to get the project working! I'd really like to get better at CSS.
+
+
 ### Day 12: January 15, 2021 
 
 **Today's Progress:** Started working on making the binary to decimal converter work in the brower.
