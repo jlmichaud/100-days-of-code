@@ -11,6 +11,13 @@
 **Link to work:** 
 
 
+### Day 14: January 23, 2021
+
+**Today's Progress:** Completed the section on basic data structures in freeCodeCamp JS certification. 
+
+**Thoughts:** Got off track due to a week of intense fatigue and headaches. Happy to finally be able to get back to this! I hope to start on a new project tomorrow.
+
+
 ### Day 13: January 17, 2021
 
 **Today's Progress:** I got the binary to decimal converter working in the browser! I tried to get the CSS working better but it's becoming clear that my CSS knowledge is severely lacking.
