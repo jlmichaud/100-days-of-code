@@ -11,6 +11,15 @@
 **Link to work:** 
 
 
+### Day 15: January 25, 2021 
+
+**Today's Progress:** Finished to lesson #7 in the section on basic algorithm scripting in freeCodeCamp's JavaScript certification, and all of the section on basic CSS in the Responsive Web Development certification.
+
+**Thoughts:** Often my anxiety and frustration about not understanding JavaScript act as thought blockers. Like I'll be trying to work out a problem and feeling that I absolutely don't understand the basic logic, or what methods or loops to use, when in reality my anxiety has just gotten me so worked up that I'm just missing some fairly minor and obvious errors (things like switching up a variable name half way through, or forgetting to return the result!).
+
+Feel good about deciding to start the Responsive Web Development certification as well. I'd been feeling frustrated to finally be understanding some JS, only to be stymied by getting my projects to work in the browser. Now I finally know about CSS variables! Working on CSS at the same time also provides a productive way for me to take breaks from learning JS when I get overwhelmed.
+
+
 ### Day 14: January 23, 2021
 
 **Today's Progress:** Completed the section on basic data structures in freeCodeCamp JS certification. 
