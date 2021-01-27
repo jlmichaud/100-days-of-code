@@ -11,6 +11,16 @@
 **Link to work:** 
 
 
+### Day 16: January 26, 2021 
+
+**Today's Progress:** Finished to lesson #10 in basic algorithm scripting in freeCodeCamp's JavaScript ceritication.
+
+**Thoughts:** I really struggled with some of the problem sets today. A few things: 
+* sometimes the problem is just that my internal panic monologue about not understanding drowns out my ability to calmly, rationally assess the problem. Maybe getting back to my meditation practice could help with this.
+* I'm sticking a bit too much to the strategies I'm comfortable with (ie. for loops). For loops are fine and useful, but it would be good to develop a greated proficiency with other tools like .map() and .reduce();
+
+
+
 ### Day 15: January 25, 2021 
 
 **Today's Progress:** Finished to lesson #7 in the section on basic algorithm scripting in freeCodeCamp's JavaScript certification, and all of the section on basic CSS in the Responsive Web Development certification.
