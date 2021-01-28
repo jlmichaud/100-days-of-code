@@ -11,6 +11,13 @@
 **Link to work:** 
 
 
+### Day 17: January 27, 2021 
+
+**Today's Progress:** Finished a single lesson (#11) in section on basic algorithm scripting in freeCodeCamp's JavaScript certification.
+
+**Thoughts:** It took me so long to solve this one, but I'm glad I took the time to really understand it. I know that if I just keep at it I'll start to gain some fluency with the different tools and strategies.
+
+
 ### Day 16: January 26, 2021 
 
 **Today's Progress:** Finished to lesson #10 in basic algorithm scripting in freeCodeCamp's JavaScript ceritication.
