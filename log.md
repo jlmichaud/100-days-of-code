@@ -11,6 +11,20 @@
 **Link to work:** 
 
 
+### Day 18: January 28, 2021 
+
+**Today's Progress:** Finished the section on basic algorithm scripting in freeCodeCamp's JavaScript certification! Woohooooooo!!!!!!
+
+**Thoughts:** Oof. This section was so challenging. BUT... I enjoyed it! I feel like I'm slowly starting to understand how to approach solving problems:
+
+* break it down into the smallest parts and run each section as I write it to make sure I'm on track
+* carefully read through the error messages or output
+* make sure that I'm thinking about what data types I'm working with so that I can choose the right methods / strategies
+* write out what I'm doing on paper
+
+I think I will re-do the section another time to make sure I really understand it and also to try out other strategies for solving the problems: different kinds of loops, array methods, heck... maybe even some recursive functions!
+
+
 ### Day 17: January 27, 2021 
 
 **Today's Progress:** Finished a single lesson (#11) in section on basic algorithm scripting in freeCodeCamp's JavaScript certification.
@@ -23,6 +37,7 @@
 **Today's Progress:** Finished to lesson #10 in basic algorithm scripting in freeCodeCamp's JavaScript ceritication.
 
 **Thoughts:** I really struggled with some of the problem sets today. A few things: 
+ 
 * sometimes the problem is just that my internal panic monologue about not understanding drowns out my ability to calmly, rationally assess the problem. Maybe getting back to my meditation practice could help with this.
 * I'm sticking a bit too much to the strategies I'm comfortable with (ie. for loops). For loops are fine and useful, but it would be good to develop a greated proficiency with other tools like .map() and .reduce();
 
