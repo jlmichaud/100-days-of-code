@@ -11,6 +11,15 @@
 **Link to work:** 
 
 
+### Day 19: January 29, 2021
+
+**Today's Progress:** Did some problem sets on Codewars. Also learned that I can convert from one numeral system to another like this:
+
+parseInt(num.toString(radix))
+
+**Thoughts:** The fact that it's possible to do numeral conversion with .toString() seems so funny given how proud I felt after my complicated solve using 2 for loops and a conditional statement to figure out by how much to raise each number. Anyway, I am really enjoying seeing how many different ways there are to solve problems. Even reading through other people's solutions on Codewars is teaching me so much.
+
+
 ### Day 18: January 28, 2021 
 
 **Today's Progress:** Finished the section on basic algorithm scripting in freeCodeCamp's JavaScript certification! Woohooooooo!!!!!!
