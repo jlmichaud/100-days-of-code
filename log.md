@@ -11,6 +11,13 @@
 **Link to work:** 
 
 
+### Day 20: January 30, 2021 
+
+**Today's Progress:** Finished to lesson #5 in basic algorithm scripting section in freeCodeCamp's JavaScript certification. 
+
+**Thoughts:** It's my second time going through this section. I wanted to make sure that I'm really understanding and also try out different methods and strategies for solving the problems. So far though I've mainly been leaning pretty heavily on the ol' tried and true for loops because the problem sets are just as challenging as they were the first time through. Tomorrow I will take a good look through the different solutions that freeCodeCamp shows and try to really understand and replicate them.
+
+
 ### Day 19: January 29, 2021
 
 **Today's Progress:** Did some problem sets on Codewars. Also learned that I can convert from one numeral system to another like this:
