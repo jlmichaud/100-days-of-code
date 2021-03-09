@@ -11,6 +11,22 @@
 **Link to work:** 
 
 
+### Day 1: March 8, 2021 
+
+**Today's Progress:** Finished a responsive tribute page I made for Timnit Gebru as part of freeCodeCamp's Responsive Web Design certification. 
+
+**Thoughts:** The last month has been pretty rough so I am re-starting the 100 days. 
+
+The tribute pagewas a really fun project to work on. It's a simple page, but I enjoyed customizing the appearance of links and figuring out how to make things responsive. Also Timnit Gebru is a total badass. 
+
+CSS seems so much better than when I was first learning it in 2017. I learned the basics of CSS grid in the last week as well and am looking forward to putting it into practice (didn't need it for the tribute page).
+
+**Link to work:** https://codepen.io/jlmichaud-the-encoder/full/JjbajOe
+
+
+### RE-START ###
+
+
 ### Day 20: January 30, 2021 
 
 **Today's Progress:** Finished to lesson #5 in basic algorithm scripting section in freeCodeCamp's JavaScript certification. 
