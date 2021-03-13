@@ -11,6 +11,16 @@
 **Link to work:** 
 
 
+
+### Day 2-4: March 12, 2021 
+
+**Today's Progress:** I've moved on to the second project in freeCodeCamp's Responsive Web Design certification. HTML is coded and I'm now figuring out how to get the CSS working.
+
+**Thoughts:** I'm hoping I can add in a little JavaScript to display some images after the user submits their info (kind of like a Buzzfeed quiz).
+
+Also, I need to get back into the habit of consistently logging my progress. I definitely found it motivating the first time around. 
+
+
 ### Day 1: March 8, 2021 
 
 **Today's Progress:** Finished a responsive tribute page I made for Timnit Gebru as part of freeCodeCamp's Responsive Web Design certification. 
